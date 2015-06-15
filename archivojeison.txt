@@ -1,7 +1,0 @@
-Este es mi archivo solito
-
-Modificando probando git
-
-otro cambio
-
-el ultimo cambio
